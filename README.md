@@ -1,2 +1,4 @@
-# Detecting-Fake-News-with-Python
-Using TfidfVectorizer, PassiveAggressiveClassifier
+Objective: 
+To build a model to classify a piece of new as REAL or FAKE.
+
+
